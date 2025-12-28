@@ -1,0 +1,34 @@
+> Photo, courte description (étudiant cherchant un stage puis une thèse interdisciplinarité)
+
+> Diplomes
+
+École d'ingé, master, licence
+
+> Projets
+
+MARC
+Intepretabilité
+Robots grille triangle
+Truc bases de donnees
+
+Julia :
+- Bibliothèque pour la mechanistic interpretability
+- Projet rapport à l'emergence
+
+Sur l'informatique
+
+Sans grande originalité l'IA me rend un peu chokbar, et je m'intéresse notamment à l'interprétabilité et ses aspects interdisciplinaires
+J'aime bien la simulation et l'analyse de données -> Assez recherche-oriented, toujours grâce à Julia mon bebou
+Je reste assez matheux et j'aime bien le calcul formel
+Plus une curiosité qu'une vocation, mais j'ai de la tendresse pour les problèmes de complexité
+
+Sur la philosophie
+
+"Postmodern theological existentialist". Par existentialisme je veux dire que je me retrouve énormément dans la philosophie de Kierkegaard, Sartre (dans la mesure où j'arrive à lire ses livres) et (bien que je sais qu'il refusait l'appelation) Camus. Théologique, parce que ma façon de penser les choses est fortement influencées par le judaïsme réformé tel qu'en parlent Delphine Horvilleur et Marc-Alain Ouaknin, et plus indirectement par Lévinas.
+Postmoderne, parce je ne crois pas en les finitudes et l'essentialisme des fonctions sociales (Foucault, Butler, Wittig).
+
+En pratique, cela s'accorde avec ma sensibilité personnelle pour les gender studies. Et évidemment, une pensée politique extrêmement proche sur les fondements de celle de Gustav Landauer : un socialisme libertaire communautaire, ou fédéraliste comme je préfère dire.
+
+More about me
+
+Travailler et lire occupent une grande partie de mon temps seul. Sinon je m'occupe en jouant de la guitare, en cuisinant, en allant au ciné, ou à l'opéra ou l'orchestre symphonique occasionellement.

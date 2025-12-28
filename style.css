@@ -1,0 +1,90 @@
+html, body, div, a,
+h1, h2, h3, h4, h5, h6, p, blockquote,
+em, img, strong, var, caption,.articles_list, .articles_list,
+table, tbody, tfoot, thead, tr, th, td,
+article, aside, figcaption, footer, header,
+nav, section, button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: Calibri, Gill Sans, Arial, Helvetica, sans-serif;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    overflow: auto;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-decoration: none;
+}
+
+html {
+    background-image:url(morisot.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body {
+    margin: 5vh 20vw 100vh 20vw;
+    padding: 5vh 5vw;
+    background:white;
+}
+
+h1 {
+    font-size:3em;
+}
+
+h2{
+    margin-top:1.5em;
+    font-size:2em;
+}
+
+h3{
+    font-size:1.2em;
+}
+
+h2 + h3{
+    margin-top: 1em;
+}
+
+p + h3{
+    margin-top: 1.5em;
+}
+
+p + ul{
+    margin-top: 0em;
+}
+
+#photo{
+    display:inline-flex;
+    margin:1em 0;
+}
+
+#photo img{
+    max-width:10vw;
+    max-height:20vh;
+}
+
+p {
+    margin:1em 0;
+    text-align:justify;
+}
+
+p a {
+    text-decoration: underline;
+}
+
+#photo p{
+    max-width:25vw;
+    padding:1em;
+    align-self: flex-end;
+}
+
+#keywords{
+    margin:0px;
+    padding:0px;
+    font-size:0px;
+}
