@@ -88,3 +88,44 @@ p a {
     padding:0px;
     font-size:0px;
 }
+
+@media only screen and (max-width: 767px) {
+    body {
+        margin: 15px 15px 100vh 15px;
+        padding: 5vh 6vw;
+    }
+
+    #photo{
+        display:inline-flex;
+        margin:1em 0;
+    }
+
+    #photo img{
+        max-width:70vw;
+        max-height:15vh;
+    }
+
+    #photo p{
+        margin:0px;
+        padding:0px;
+        font-size:0px;
+    }
+
+    h1 {
+        font-size:2.5em;
+    }
+
+    h2{
+        margin-top:1em;
+        font-size:1.5em;
+    }
+
+    h3{
+        font-size:1.2em;
+    }
+
+    p, a, li, b, i{
+        font-size:0.9em;
+    }
+    
+}
