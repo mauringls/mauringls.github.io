@@ -1,3 +1,9 @@
+@font-face {
+  font-family: biko;
+  /*src: url(https://www.dafont.com/biko.font);*/
+  src: url(https://fonts2u.com/biko-light.font);
+}
+
 html, body, div, a,
 h1, h2, h3, h4, h5, h6, p, blockquote,
 em, img, strong, var, caption,.articles_list, .articles_list,
@@ -8,7 +14,7 @@ nav, section, button {
     padding: 0;
     border: 0;
     font-size: 100%;
-    font-family: Calibri, Gill Sans, Arial, Helvetica, sans-serif;
+    font-family: biko, Calibri, Gill Sans, Arial, Helvetica, sans-serif;
     vertical-align: baseline;
     box-sizing: border-box;
     overflow: auto;
@@ -17,6 +23,7 @@ nav, section, button {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     text-decoration: none;
+    line-height: 1.6em;
 }
 
 html {
