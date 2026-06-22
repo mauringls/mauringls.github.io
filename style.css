@@ -91,6 +91,10 @@ p a {
     text-decoration: underline;
 }
 
+ul {
+    text-align: justify;
+}
+
 #photo p{
     max-width:25vw;
     padding:1em;
